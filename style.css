@@ -1,42 +1,48 @@
-body{
+body {
     margin: 0;
     max-width: 786px;
     margin: 0 auto;
 }
 
-.header{
+.header {
     min-height: 40px;
     background-color: #A52A2A;
-    text-align:center;
+    text-align: center;
     color: cornsilk;
     font-size: 35px;
 }
-.img_main{
+
+.img_main {
     display: flex;
     justify-content: center;
 }
-main>p{
+
+main>p {
     font-size: 18px;
     color: pixie;
 }
-ul{
+
+ul {
     list-style: none;
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
-li{
+
+li {
     border-style: dashed;
     margin: 20px 5px;
 }
-.footer{
+
+.footer {
     min-height: 20px;
     background-color: black;
     color: blanchedalmond;
     text-align: center;
     font-size: 20px;
 }
-.dolor{
+
+.dolor {
     font-style: italic;
     color: #0000FF;
 }
